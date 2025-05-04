@@ -7,4 +7,7 @@ About MPG AUTO Dataset: The Auto MPG dataset contains information about cars fro
 Project Structure: 
  - It is structured on 2 folders:
     1. 01-datasets: where all the datasets used are. 
-    2. 02-notebooks: where all the notebooks for the analysis are. 
+    2. 02-notebooks: where all the notebooks for the analysis are.
+         - Exploratory Data Analysis in order to identify patters and relationships previous the model. 
+         - Simple and Multiple Linear Regression using statsmodels library in order to validate the assumptions, before the predictive model. 
+         - Predictive Multiple Linear Regression using scikit-learn. 
