@@ -1,8 +1,8 @@
 # About the project
 
-A simple project while i´m studying linear regression analysis with the babies dataset from kaggle (a toy dataset). 
+A simple project while i´m studying linear regression analysis with the wine dataset from kaggle (a toy dataset). 
 
-About Babies Dataset: The dataset provides information on a child's weight at birth plus some stats on the child's mother: is she a smoker or not, her height, her weight, the gestation length, and so on.
+About Babies Dataset: contains physicochemical and sensory data about red and white variants of Portuguese "Vinho Verde" wine. The goal is typically to predict wine quality based on physicochemical tests.
 
 Project Structure: 
  - It is structure on 2 folders:
